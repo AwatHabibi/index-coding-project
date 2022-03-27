@@ -1,10 +1,11 @@
 .hobbys {
   border: 5px solid rgb(52, 209, 52);
   float: left;
-  padding: 7px;
+  padding: 4px;
   margin: 4px;
   margin-right: 1000px;
   background-color: rgb(198, 252, 5);
+  width:max-content;
 }
 
 .highlight {
