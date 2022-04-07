@@ -19,7 +19,7 @@
 
 #### Known bugs: None.
 
-# Here is the link to GitHub for this project  https://github.com/AwatHabibi/index-coding-project
+# Here is the link to GitHub Pages link for this project  https://awathabibi.github.io/index-coding-project/
 
 # Heres a link to github pages repository https://github.com/AwatHabibi?tab=repositories
 
